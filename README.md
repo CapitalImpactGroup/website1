@@ -16,7 +16,9 @@ Harvad's HLS favicon is 216x216 so that is the current size we are working with.
 Tried to use squarespace, and wix. had a nightmare of a time 0920/2021
 
 
-Looking for a hosting website trying to choose between AWS, and Netlify 09/20/2021
+Looking for a hosting website trying to choose between AWS, and Netlify 09/20/2021 
+
+  used AWS today... what a blast -09/22/21
 
 Search engine for the site seems like the best plugin would be algolia.
 
