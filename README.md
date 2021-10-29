@@ -22,3 +22,9 @@ Looking for a hosting website trying to choose between AWS, and Netlify 09/20/20
 
 Search engine for the site seems like the best plugin would be algolia.
 
+
+wordpress is decidee as the only CMS. jamstack and all other firms will be scrapped. will look at jamstack documentation when needed. 
+
+
+looked at timber and elementor to edit the website. 
+
