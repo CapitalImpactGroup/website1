@@ -28,3 +28,4 @@ wordpress is decidee as the only CMS. jamstack and all other firms will be scrap
 
 looked at timber and elementor to edit the website. 
 
+mass deletion of uncesssary files // now starting from scratch using timber // algoria has been integrated // 
