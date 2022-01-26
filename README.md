@@ -32,4 +32,4 @@ mass deletion of uncesssary files // now starting from scratch using timber // a
 
 after crashing the wordpress site again trying to hardcode custom CSS and html elements i have decided back to JAMstack... sorry but wordpress = BAD. 19th of jan
 
-2022 created using the gudie for cs50 and JAMSTAck 
+2022 created using the guide for cs50 and JAMSTAck 
