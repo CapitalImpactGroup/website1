@@ -21,7 +21,7 @@
 	$white, $teal, $cyan, $font-size-base, $font-weight-bold (maybe some others after writing this comment)
 */
 :root {
-  --bs-blue: #F85ACA;
+  --bs-blue: #ff6633;
   --bs-indigo: #6610F2;
   --bs-purple: #B822FF;
   --bs-pink: #D63384;
