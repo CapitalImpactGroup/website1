@@ -61,12 +61,16 @@ $black:  $dark-1 !default;
 
 // scss-docs-start colors-map
 $colors: (
+
+//custom colors added here by me -Donald Ross blackbox.works  
+  "orange":     #ff6633,
+  "navy":       #113750,
+
   "blue":       $action-1,
   "indigo":     $action-2,
   "purple":     $action-3,
   "pink":       $action-4,
   "red":        $action-5,
-  "orange":     $action-6,
   "yellow":     $action-7,
   "green":      $action-8,
   "teal":       $teal,
